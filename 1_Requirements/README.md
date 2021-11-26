@@ -6,3 +6,4 @@ Fire Accidents are most concerned issues as it risk the people’s life and the 
 - Prevents fire based risk/accidents
 - Prevents damages to warehouse goods
 - User friendly and easy to monitor
+![image](https://user-images.githubusercontent.com/94182282/143623759-fccde348-73e8-4672-9b1f-44020b2c6c3b.png)
