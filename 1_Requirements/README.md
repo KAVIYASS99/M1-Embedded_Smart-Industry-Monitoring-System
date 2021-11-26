@@ -15,3 +15,4 @@ Fire Accidents are most concerned issues as it risk the people’s life and the 
 - Temperature are monitored automatically using webpage 
 - Fire occurred is been detected to take necessary actions 
 # **4W AND 1H**
+![image](https://user-images.githubusercontent.com/94182282/143625919-0c2a2e60-c9e9-4d13-8fc4-c3115fbfdedb.png)
