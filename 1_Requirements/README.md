@@ -6,4 +6,12 @@ Fire Accidents are most concerned issues as it risk the people’s life and the 
 - Prevents fire based risk/accidents
 - Prevents damages to warehouse goods
 - User friendly and easy to monitor
-![image](https://user-images.githubusercontent.com/94182282/143623759-fccde348-73e8-4672-9b1f-44020b2c6c3b.png)
+# **STATE OF ART/RESEARCH**
+**Before Technology**
+- Temperature should be continuously monitored by labors 
+- Fire occurred may not be detected and leads to accident
+
+**After Technology**
+- Temperature are monitored automatically using webpage 
+- Fire occurred is been detected to take necessary actions 
+# **4W AND 1H**
