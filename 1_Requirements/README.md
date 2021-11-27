@@ -18,3 +18,9 @@ Fire Accidents are most concerned issues as it risk the people’s life and the 
 ![image](https://user-images.githubusercontent.com/94182282/143625919-0c2a2e60-c9e9-4d13-8fc4-c3115fbfdedb.png)
 # **SWOT ANALYSIS**
 ![image](https://user-images.githubusercontent.com/94182282/143672102-691865a7-602b-4ee9-a188-bd0e2bebff73.png)
+# **HIGH LEVEL REQUIREMENTS**
+- Smoke Sensor to detect the fire and produce alarm
+- Temperature sensor to monitor the values
+- Nodemcu to send values to thingspeak server (cloud)
+- ADC to convert from analog to digital signal
+- Buzzer, GSM to alert the officials
