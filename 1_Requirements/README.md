@@ -24,3 +24,5 @@ Fire Accidents are most concerned issues as it risk the people’s life and the 
 - Nodemcu to send values to thingspeak server (cloud)
 - ADC to convert from analog to digital signal
 - Buzzer, GSM to alert the officials
+# **LOW LEVEL REQUIREMENTS**
+- Message is sent to Lcd display
