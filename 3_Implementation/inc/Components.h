@@ -1,6 +1,5 @@
 // Buzzer Header
-
-	#ifndef _BUZ_H
+#ifndef _BUZ_H
 #define _BUZ_H
 	
 
@@ -41,7 +40,7 @@ Celsius };
 #ifndef MQ2_H
 #define MQ2_H
 
-#include <MQ2.H>
+#include <MQ2.h>
 
 #define LM35_DDR        DDRC
 #define LM35_PORT      PORTC
