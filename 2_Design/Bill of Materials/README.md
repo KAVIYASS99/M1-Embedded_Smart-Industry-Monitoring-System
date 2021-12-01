@@ -1,7 +1,7 @@
 # **BILLS OF MATERIALS**
 | **S.NO** | **COMPONENTS** | **DESCRIPTION** | **QUANTITY** | **LINKS** |
 | :------: | :------------: | :-------------: | :---------: | :-------: |
-| 1 | ATMega328 | Microcontroller | 1 |  | https://www.electronicscomp.com/atmega328p-microcontroller-india |    
+| 1 | ATMega328 | Microcontroller | 1 | https://www.electronicscomp.com/atmega328p-microcontroller-india?search=atmega328 |  
 | 2 | Nodemcu | ESP 8266 Wifi module | 1 | https://www.electronicscomp.com/ai-thinker-nodemcu-esp8266-development-board?search=nodemcu |   
 | 3 | ADC | Analog to Digital Converter | 1 | https://www.electronicscomp.com/adc0804-8-bit-analog-to-digital-a-d-converter-ic-dip-20-package?search=analog%20to%20digital%20converter |           
 | 4 | LM35 | Temperature Sensor | 1 | https://www.electronicscomp.com/lm35-temprature-sensor?search=lm35%20sensor |
