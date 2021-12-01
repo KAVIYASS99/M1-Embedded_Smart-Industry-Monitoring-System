@@ -12,4 +12,4 @@
 | 9 | GSM | Sim 300 or 900 | 1 | https://www.electronicscomp.com/sim900a-gsm-gprs-module-india?search=gsm%20sim%20900 |
 | 10 | Buzzer | Sound/Alarm | 1 | https://www.electronicscomp.com/active-buzzer-module-5v-india?search=buzzer |
 | 11 | Bread Board | - | 1 | https://www.electronicscomp.com/400-points-half-size-solderless-breadboard?search=bread%20board&limit=50 |
-| 12 | Jumper Wires | Infinity | Connecting Wires | https://www.electronicscomp.com/jumper-wire-male-female-connector?search=jumper%20wir |
+| 12 | Jumper Wires | Connecting Wires | Infinity | https://www.electronicscomp.com/jumper-wire-male-female-connector?search=jumper%20wir |
