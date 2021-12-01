@@ -3,7 +3,7 @@
 | :------------:  | :------------------: | :------------------: | :-----------------: | :-------------------: |
 | H1               | To monitor the temperature | LM35 Sensor measures surrounding temperature | To control temperature conditions accordingly | To control temperature conditions accordingly |
 | H2               | To detect fire and send SMS | MQ2 Sensor detects fire at initial stage | Alert the officials through GSM(Mobile) | Alert the officials through GSM(Mobile) |
-| H3               | To detect fire and produce alarm | MQ2 Sensor detects fire at initial stage | Alert the Workers through buzzer sound | Alert the Workers through buzzer sound |
+| H3               | To detect fire and produce alarm | MQ2 Sensor detects fire at initial stage | Alert the Workers through buzzer sound and through LED | Alert the Workers through buzzer sound and through LED |
 | H4               | To send Temperature values to Webpage | Nodemcu sends the value to Webpage | View values in Webpage | View values in Webpage |
 
 # **LOW LEVEL TEST PLAN**
