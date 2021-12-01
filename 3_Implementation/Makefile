@@ -3,7 +3,7 @@ PROJ_NAME = Smart Industry Monitroing System
 BUILD_DIR = Build
 
 # All Source code files
-SRC = main.c\
+SRC = Main.c\
 src/Function.c\
 src/Components.c\
 src/Adc.c\
