@@ -35,6 +35,8 @@ Fire Accidents are most concerned issues as it risk the people’s life and the 
 ![image](https://user-images.githubusercontent.com/94182282/144263187-a6bdf0af-0d17-4827-99ee-d09fea02cf2c.png)
 # **CLASS DIAGRAM**
 ![image](https://user-images.githubusercontent.com/94182282/144262742-30a1d013-6789-4cf8-be75-2162e90f4752.png)
+# **Simulation**
+![image](https://user-images.githubusercontent.com/94182282/144391770-789ab418-518e-41bb-8c1f-ff8541256585.png)
 # **BILLS OF MATERIALS**
 | **S.NO** | **COMPONENTS** | **DESCRIPTION** | **QUANTITY** | **LINKS** |
 | :------: | :------------: | :-------------: | :---------: | :-------: |
